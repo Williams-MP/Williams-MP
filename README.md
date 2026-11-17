@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Dipl.-Ing. Williams Mérida, MSc 👋
+# Dipl.-Ing. Williams Mérida, MSc
 
 Mechanical engineer with **10+ years in high-voltage battery systems** (Samsung SDI, AVL) now working in **data analytics & AI**.
 I combine deep engineering domain knowledge with Python, machine learning and data visualization.
