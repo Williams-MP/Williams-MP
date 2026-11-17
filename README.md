@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Williams-MP/Williams-MP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dipl.-Ing. Williams Mérida, MSc 👋
 
-Here are some ideas to get you started:
+Mechanical engineer with **10+ years in high-voltage battery systems** (Samsung SDI, AVL) now working in **data analytics & AI**.
+I combine deep engineering domain knowledge with Python, machine learning and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Graz & Viena
+
+### 🛠️ Tech stack
+Python (pandas, scikit-learn, PyTorch) · SQL · Tableau · Databricks · Jupyter · Git · Linux
+
+### 💼 Experience
+- **Co-Founder** — VigÍA (2026 – present)
+- **Project Manager Battery Design** — AVL, Graz (2022 – 2025)
+- **Senior Mechanical Engineer** — Samsung SDI Battery Systems, Premstätten (2014 – 2022)
+
+### 🎓 Education
+- MSc Artificial Intelligence — VIU (2026)
+- MSc Data Science — UOC (in progress, 2027)
+- MSc Digital Ethics — UTAMED (2026)
+- Mechanical Engineering — UPC Barcelona & TU Graz (Diploma thesis)
+
+### 📂 Featured projects
+_Coming soon — see pinned repositories below._
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/dipl-ing-williams-m%C3%A9rida-msc-a2534019/) 
